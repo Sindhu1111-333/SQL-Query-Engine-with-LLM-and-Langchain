@@ -56,6 +56,5 @@ this will allow you to input natural language queries and get back generated SQL
 
 - Auto-generates SQL queries from natural language inputs.
 - Supports multiple SQL databases (PostgreSQL, MySQL, etc.).
-- Optimized query generation using LlamaIndex and LangChain.
 
 
